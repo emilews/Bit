@@ -19,5 +19,3 @@ for i = 1 : tam;
     tam2 = tam2 - 1;
 end
 
-R = corrcoef(op, cl);
-scatter(op, cl);
